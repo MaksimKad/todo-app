@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://github.com/MaksimKad/todo-app)
+
+This is a simple Todo Application built using React, React Router, TypeScript, and Sass (SCSS). It allows users to manage their tasks by adding, removing, and editing todos. The application is integrated with the Mate Academy API to store and retrieve todo data.
+
+The following technologies were used in this project:
+TypeScript, React, React Router, Sass (SCSS)
